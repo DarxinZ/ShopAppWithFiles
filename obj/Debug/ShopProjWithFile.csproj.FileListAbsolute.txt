@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ShopProjWithFile\obj\Debug\ShopProjWithFile.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ShopProjWithFile\obj\Debug\ShopProjWithFile.Form1.resources
+C:\Users\Admin\source\repos\ShopProjWithFile\obj\Debug\ShopProjWithFile.Properties.Resources.resources
+C:\Users\Admin\source\repos\ShopProjWithFile\obj\Debug\ShopProjWithFile.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ShopProjWithFile\bin\Debug\ShopProjWithFile.exe.config
+C:\Users\Admin\source\repos\ShopProjWithFile\bin\Debug\ShopProjWithFile.exe
+C:\Users\Admin\source\repos\ShopProjWithFile\bin\Debug\ShopProjWithFile.pdb
+C:\Users\Admin\source\repos\ShopProjWithFile\obj\Debug\ShopProjWithFile.exe
+C:\Users\Admin\source\repos\ShopProjWithFile\obj\Debug\ShopProjWithFile.pdb
